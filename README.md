@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Sasidu-Tech/ESP32-Bluetooth-Controlled-4-Wheel-Robot-Car-/blob/main/images/BT%20Car%20(1).png" width="400">
+      <img src="https://github.com/Sasidu-Tech/Python-IPv4-Subnet-Calculator/blob/main/screenshots/sabnet%20Calculator%20(1).png" width="400">
     </td>
   </tr>
 </table>
